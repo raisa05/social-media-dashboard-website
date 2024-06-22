@@ -1,0 +1,7 @@
+h1, h2, h3{
+    margin-top:0; // removes default top margin
+}
+
+a, a:visited, a:active{ // these refer to links visited/active 
+    text-decoration : none; // this removes the default underline on links
+}

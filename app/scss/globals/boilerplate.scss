@@ -1,0 +1,14 @@
+html{
+    font-size:100%; // sets the size to 100% of the default browser. done to ttexts with html tags
+    box-sizing: border-box; //so that the width includes the padding instead of width+padding
+}
+*, *::before, *::after{ //'*' targets all elements
+    //::before , after are pseudo elements which can be used to place smn before or after a piece of content
+    box-sizing : inherit
+}
+
+body{ // sets different parameters for the body section
+    margin:0; // overrides the default margin given by browsers
+    padding: 0; // same logic as margin
+    font-family: var(--font-inter);//calling the variable created in fonts.scss
+}
