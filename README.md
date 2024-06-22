@@ -18,8 +18,8 @@ The goal of this project was to replicate a Social Media Dashboard design provid
 ## Technologies Used
 
 - HTML5
-- CSS3 (including Flexbox and Grid for layout)
-- JavaScript (for the theme switcher functionality)
+- SCSS (Sass) - Compiled to CSS for styling 
+- JavaScript
 
 ## How to View
 
