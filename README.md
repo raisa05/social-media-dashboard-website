@@ -23,4 +23,4 @@ The goal of this project was to replicate a Social Media Dashboard design provid
 
 ## How to View
 
-You can view the live project [[here](https://raisa05.github.io/social-media-dashboard-website/)](#) 
+You can view the live project [here](https://raisa05.github.io/social-media-dashboard-website/).
